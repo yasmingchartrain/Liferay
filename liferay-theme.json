@@ -1,0 +1,9 @@
+{
+  "LiferayTheme": {
+    "appServerPath": "/home/yasminlinux/testelixo/bundles/tomcat-9.0.56",
+    "deployPath": "/home/yasminlinux/testelixo/bundles/deploy",
+    "deployed": true,
+    "deploymentStrategy": "LocalAppServer",
+    "url": "http://localhost:8080"
+  }
+}

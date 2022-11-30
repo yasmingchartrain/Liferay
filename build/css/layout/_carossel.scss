@@ -1,0 +1,32 @@
+.imgnoticia{
+    margin: auto;
+    width: 70%;
+    max-height: 555px;
+}
+
+.textocolor {
+    background: #09075e87;
+    margin-bottom: -20px;
+}
+
+.titulocarossel{
+    font-family: 'Roboto Slab', serif; 
+    font-weight: 500;
+    margin: auto;
+    word-break: normal;
+
+}
+
+.resumocarossel{
+    font-family: 'Roboto' , serif;
+    font-weight: 300;
+    margin: auto;
+    word-break: normal;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    background-color: black;
+    width: 50px;
+    height: 120px;
+    top: 40%;
+}

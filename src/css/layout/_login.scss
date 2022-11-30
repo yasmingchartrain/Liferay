@@ -1,0 +1,34 @@
+#loginPortlet {
+    color: $black;
+    .modal-body {
+      overflow: hidden;
+    }
+  }
+  
+  .portlet-login {
+    color: $black;
+    .navigation,
+    .portlet-header {
+      display: none;
+    }
+  
+    .input-checkbox-wrapper {
+      display: flex;
+      justify-content: center;
+      label {
+        display: flex;
+      }
+      input[type="checkbox"] {
+        margin-right: 4px;
+      }
+    }
+  
+    .button-holder {
+      margin: 0;
+    }
+  
+    .btn-primary {
+      width: 100%;
+    }
+  }
+  

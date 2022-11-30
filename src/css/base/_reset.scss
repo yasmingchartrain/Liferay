@@ -1,0 +1,24 @@
+.hide-accessible {
+    border: 0 !important;
+    clip: rect(0 0 0 0) !important;
+    height: 1px !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    position: absolute !important;
+    white-space: nowrap !important;
+    width: 1px !important;
+}
+nav[id*="_quickAccessNav"]{
+    display: none !important;
+}
+
+html:not(#_):not(#_) .overlay-content .open > .cadmin.dropdown-menu {
+    display: block;
+    position: static;
+}
+
+.portlet-borderless .portlet-title-text{
+    display: none;
+}

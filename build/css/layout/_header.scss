@@ -1,0 +1,35 @@
+header{
+    margin-bottom: 16px;
+    padding: 4px;
+}
+
+
+.site-name{
+    padding: 18px 9px 0;
+    font-size: 24px;
+    color: #666;
+}
+
+.bnt-ajust{
+    padding: 5px;
+}
+
+
+.bt-contraste{
+    background-color: #007bff;
+    border-color: #376597;
+    color: #fff;
+    height: 31px;
+    width: 93px;
+}
+
+img {
+    vertical-align: bottom;
+}
+
+@include media-breakpoint-down(sm) {
+    #heading{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

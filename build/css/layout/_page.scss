@@ -1,0 +1,90 @@
+body{
+    background-color: #f5f6f8;
+}
+
+.conteudoweb{
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 216px;
+}
+
+
+
+body.contraste{
+    background-color: black;
+
+    .bt-contraste{
+        background-color: #c2c7cb;
+        border-color: black;
+        color:black;
+ 
+    }
+
+    .modal-body {
+        background: black;
+    }
+
+    
+    h5#searchLebal {
+        color: black;
+    }
+    
+    
+    p{
+        color: white;
+    }
+    .clearfix.component-paragraph.text-break {
+        color: rgb(124, 116, 116);
+    }
+    
+    h1,h2,h3,h4,h5{
+        color: #f5f6f8 ;
+    }
+
+    .btn-secondary{
+        background-color: #c2c7cb;
+        border-color: #ffffff;
+        color:black;
+    }
+
+    .textocolor{
+        background-color:#fafaff87;
+    }
+
+    .titulocarossel{
+        color:black;
+    }
+
+    .resumocarossel{
+        color:black;
+        font-weight: 300;
+    }
+
+    a{
+        color: #f5f6f8;
+    }
+    .especial-black{
+        color: #f5f6f8;
+    }
+    .portlet-content.portlet-content-editable{
+        background-color: #030101;
+    }
+
+    .autofit-float.autofit-row.portlet-header{
+        color: black   }
+
+    .listanot{
+        background-color: black;
+    }
+
+    .footer{
+        background-color: #dddfe1;
+        color:black;
+    }
+
+    .especial{
+        color:black;
+    }
+
+}
+
